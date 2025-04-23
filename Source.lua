@@ -164,7 +164,7 @@ end
 
 
 --[[ Version ]]--
-local curVer = isAprilFools() and Format("%d.%d.%d", math.random(1, 10), math.random(0, 99), math.random(0, 99)) or "2.4.1"
+local curVer = isAprilFools() and Format("%d.%d.%d", math.random(1, 10), math.random(0, 99), math.random(0, 99)) or "1.0.0"
 
 --[[ Brand ]]--
 local mainName = 'Nameless Admin'
